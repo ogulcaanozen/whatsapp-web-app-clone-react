@@ -1,6 +1,6 @@
-#This is a clone of Whatsapp web application implemented using React.js and Firebase.
+This is a clone of Whatsapp web application implemented using React.js and Firebase.
 
-#Tech Stack
+TECH STACK:
 
 -React js
 
